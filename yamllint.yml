@@ -17,7 +17,5 @@ rules:
     level: warning
   document-end: disable
   document-start: disable
-  line-length:
-    max: 120
-    level: warning
+  line-length: disable
   truthy: disable
