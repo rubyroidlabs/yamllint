@@ -7,14 +7,10 @@ rules:
   brackets:
     min-spaces-inside: 0
     max-spaces-inside: 0
-  colons:
-    level: warning
-  commas:
-    level: warning
-  comments:
-    level: warning
-  comments-indentation:
-    level: warning
+  colons: disable
+  commas: disable
+  comments: disable
+  comments-indentation: disable
   document-end: disable
   document-start: disable
   line-length: disable
