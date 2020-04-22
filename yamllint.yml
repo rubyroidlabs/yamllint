@@ -15,3 +15,7 @@ rules:
   document-start: disable
   line-length: disable
   truthy: disable
+  hyphens:
+    max-spaces-after: 1
+  indentation:
+    spaces: 2, indent-sequences: false, check-multi-line-strings: true
